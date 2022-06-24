@@ -25,7 +25,9 @@ export const InputSubmitBtn = styled.button`
     border:none;
     font-size:15px;
     background-color: #2f74c0;
-    color:white;
+    color: white; 
+    /* background-color: darkred;
+    color: lime; */
     transition: all ease-in .2s;
     box-shadow: 0 0 10px black ;
 
